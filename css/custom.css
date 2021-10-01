@@ -5,3 +5,8 @@ body {
 .card .material-icons {
   font-size: 6rem;
 }
+
+article.card:hover {
+  background: #DAADFD;
+
+}
